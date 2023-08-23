@@ -81,3 +81,39 @@ main {
 footer {
     background-color: blanchedalmond;
 }
+
+/*Media queries*/
+
+@media screen and (min-width:768px) {
+    nav {
+        display: block;
+        position: relative;
+        width: fit-content;
+        padding-right: 1rem;
+        box-shadow: none;
+    }
+    #menu {
+        display: flex;
+    }
+    #menu>li {
+        padding-left: 1.5rem;
+    }
+    .nav-toggle-label {
+        display: none;
+    }
+    #logo {
+        font-size: 180%;
+        line-height: 50px;
+        margin: 0 1rem;
+    }
+    main {
+        margin-top:72px;
+    }
+}
+
+@media screen and (min-width: 992px){
+    #menu a:hover {
+        border-bottom: 1px solid #322E2E;
+    }
+    
+}
