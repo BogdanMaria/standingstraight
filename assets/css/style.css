@@ -78,8 +78,16 @@ main {
 }
 
 /*Footer*/
-footer {
-    background-color: blanchedalmond;
+#social-networks {
+    list-style-type: none;
+    text-align: center;
+    padding: 5px 0; 
+    display: flex;
+    justify-content: space-evenly;
+}
+#social-networks i {
+    font-size: 150%;
+    color: #322E2E;
 }
 
 /*Media queries*/
