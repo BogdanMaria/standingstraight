@@ -4,6 +4,6 @@ STANDING STRAIGHT is a responsive website built for the sole purpose of completi
 
 The live website can be viewed here [STANDING STRAIGHT](https://bogdanmaria.github.io/standingstraight/).
 
-![Amiresponsive image of Standing Straight](assets/images/readme/mockup.png)
+![Amiresponsive image of Standing Straight](readme-folder/mockup.png)
 
 
