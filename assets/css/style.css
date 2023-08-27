@@ -33,7 +33,9 @@ header a {
     text-decoration: none;
     color: inherit;
 }
-
+header i {
+    font-size: 70%;
+}
 h1 {
     font-family: 'Lato', sans-serif;
     text-transform: uppercase;
@@ -70,11 +72,16 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
+
 /*Main content*/
 main {
-    background-color: rgb(250, 144, 6);
     flex: 1 0 auto;
     margin-top: 49px;
+}
+#hero {
+    height: 650px;
+    width: 100%;
+    background: url(../images/heroimage.webp) no-repeat center center/cover;
 }
 
 /*Footer*/
