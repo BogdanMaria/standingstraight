@@ -128,9 +128,7 @@ main {
     border-top: 2px solid #746F6E;
     margin: 3px 0;
 }
-#equipment,
-#physio-img,
-#office {
+.img {
     max-width: 100%;
 }
 
@@ -183,5 +181,16 @@ main {
 @media screen and (min-width: 992px){
     #menu a:hover {
         border-bottom: 1px solid #322E2E;
-    }
+    } 
+}
+
+@media screen and (min-width: 1024px) {
+.laptop {
+    display: flex;
+        align-items: center;
+        justify-content: center
+}
+.img {
+    max-width: 40%;
+}
 }
