@@ -15,6 +15,14 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
 }
+h1, h2, h3{
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 110%;
+    color: #322E2E;
+}
+
 
 /* Header*/
 header {
@@ -36,13 +44,7 @@ header a {
 header i {
     font-size: 70%;
 }
-h1 {
-    font-family: 'Lato', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    font-size: 110%;
-    color: #322E2E;
-}
+
 #menu {
     list-style-type: none;
     letter-spacing: 2px;
@@ -82,6 +84,54 @@ main {
     height: 650px;
     width: 100%;
     background: url(../images/heroimage.webp) no-repeat center center/cover;
+    position: relative;
+}
+#cover-text {
+    background-color: rgba(1, 10, 7, 0.637);
+    position: absolute;
+    bottom: 70px;
+    width: 70%;
+    min-height: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#cover-text>h2, #cover-text>h3 {
+    font-size: 95%;
+    color: #FFFFFF;
+    text-align: center;
+}
+#about-us {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#about-us>h2 {
+    text-align: center;
+    font-size: 120%;
+}
+#services{
+    width: 90%;
+    margin: 20px auto;
+}
+#services h2 {
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 250%;
+}
+#services > div {
+    line-height:15px;
+    margin-bottom: 20px;
+}
+#services p {
+    padding: 0 10px;
+}
+#services hr {
+    border-top: 2px solid #746F6E;
+    margin: 3px 0;
+}
+#equipment,
+#physio-img,
+#office {
+    max-width: 100%;
 }
 
 /*Footer*/
@@ -124,11 +174,14 @@ main {
     main {
         margin-top:72px;
     }
+    #cover-text {
+        width: 250px;
+        left: 100px;
+    }
 }
 
 @media screen and (min-width: 992px){
     #menu a:hover {
         border-bottom: 1px solid #322E2E;
     }
-    
 }
