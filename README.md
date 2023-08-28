@@ -53,3 +53,40 @@ The colour scheme used is simple and it uses  #322E2E as main colour fot text, #
   - The navigation menu section allows the user to navigate between pages without using the “back” button.
   - This menu is responsive on different screen sizes and allows the menu to shrink on mobile view to allow more screen space for the user.
 ![Navigation bar](readme-folder/nav.png)
+
+- Foooter
+  - The footer section allows the user to visit the business’ social media sites through use of links.
+  - These links will open in a new window to allow the user to continue navigating through the site without using the back button.
+  - The footer remains the same on all pages to keep the social media links easy to find.
+  - The footer hopes to connect the business with more users and clients via social media sites.
+![Footer image](readme-folder/footer.png)
+
+- Our services
+  - This page is listing the services that can be offered.
+  - Gives the user an idea about the quipment used.
+![Services image](readme-folder/services.png)
+
+- Contact form details section
+  - This form allows the user to enter details for the business to contact them.
+  - Use of placeholder text and required fields provides the user easy navigation through the form so that any questions about entering details is eliminated.
+![Contact image](readme-folder/contact.png)
+
+## Technologies
+
+- HTML to accomplish the structure of the website.
+- CSS to style the website.
+- [Codeanywhere](https://app.codeanywhere.com/) IDE to develop the website.
+- [GitHub](https://GitHub.com/) to host the source code and GitHub Pages to deploy and host the live site.
+- Git to provide version control (to commit and push code to the repository).
+- [FontAwesome](https://fontawesome.com/) to provide the icons used.
+- [Google Fonts](https://fonts.google.com/) for typography.
+- [Google Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools) for debugging, inspecting pages' elements and testing layout.
+- [Online-convert](https://www.online-convert.com/) to optimise images to reduce storage and enhance the website performance.
+- [Favicon.cc](https://www.favicon.cc/) to create the website favicon.
+- [Color](https://www.htmlcsscolor.com/) to source colour palette.
+- [Balsamiq](https://balsamiq.com/wireframes/) to design wireframes.
+- [Amiresponsive](https://ui.dev/amiresponsive) to create the Mockup image in this README.
+- Google Chrome's [Lighthouse](https://developers.google.com/web/tools/lighthouse) to assess accessibility.
+- [W3C HTML Markup Validator](https://validator.w3.org/) to validate HTML code.
+- [W3C Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS code.
+- Code Institute's Gitpod Template to generate the workspace for the project.
