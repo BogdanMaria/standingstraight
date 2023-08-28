@@ -7,3 +7,14 @@ The live website can be viewed here [STANDING STRAIGHT](https://bogdanmaria.gith
 ![Amiresponsive image of Standing Straight](readme-folder/mockup.png)
 
 
+##User Experience (UX)
+
+- ### User Stories:
+	- As a first-time user:
+        - I want to easily understand the main purpose of the site and learn more about the topic.
+		- I want to easily navigate the website.
+		- I want to be able to contact them to book a session or ask further questions.
+	
+	- As a returning visitor:
+		- I want to be able to navigate to further social media sites to see more work and reviews of the company.
+		- I want to easily find a way to contact the business- if I haven’t already.

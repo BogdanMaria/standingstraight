@@ -144,7 +144,7 @@ main {
 #contact-form {
     color: #ffffff;
     background-color: rgba(1, 10, 7, 0.637);
-    padding: 30px;
+    padding: 20px;
 }
 
 #contact-form>h2 {
@@ -224,8 +224,7 @@ main {
              max-width: 300px;
              position: absolute;
              left: 10%;
-             top: 10px;
-             bottom: 10px;        
+             top: 10px;        
          }
     
          .text-input:hover {
