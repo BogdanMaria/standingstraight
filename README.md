@@ -1,6 +1,6 @@
 # STANDING STRAIGHT
 
-STANDING STRAIGHT is a responsive website built for the sole purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. It was built using the knowledge gained from the HTML, CSS and User Centric Design modules. A full list of technologies used can be found in the technologies section of this document.
+STANDING STRAIGHT is a responsive website built for the sole purpose of completing the first Milestone Project for the Code Institute's Full Stack Developer course. It was built using the knowledge gained from the HTML, CSS and User Centric Design modules.
 
 The live website can be viewed here [STANDING STRAIGHT](https://bogdanmaria.github.io/standingstraight/).
 
@@ -35,3 +35,21 @@ A image of a translucent human body with the spine and nervous system highlighte
 The colour scheme used is simple and it uses  #322E2E as main colour fot text, #746F6E for the shadow, #b11d03 for the sumbit button on the conact form.
 
 ![#322E2E](readme-folder/color1.png) ![#746F6E](readme-folder/color2.png) ![#b11d03](readme-folder/color3.png)
+
+## Wireframes:
+### HOME
+![Home wifreframe](readme-folder/INDEX.png)
+### OUR SERVICES
+![Our services wireframe](readme-folder/OUR%20SERVICES.png)
+### CONTACT
+![Contact wireframe](readme-folder/CONTACT.png)
+
+## Features:
+
+### Existing Features
+
+- Navigation Menu
+  - The navigation menu appears on all three pages and is a fully responsive bar that can direct you to the About, Gallery and Contact pages. The style remains the same on all pages for easy navigation.
+  - The navigation menu section allows the user to navigate between pages without using the “back” button.
+  - This menu is responsive on different screen sizes and allows the menu to shrink on mobile view to allow more screen space for the user.
+![Navigation bar](readme-folder/nav.png)
