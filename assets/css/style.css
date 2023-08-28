@@ -21,7 +21,23 @@ h1, h2, h3{
     font-size: 110%;
     color: #322E2E;
 }
-
+h4 {
+    ont-family: 'Lato', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-size: 95%;
+        color: #322E2E;
+        padding: 15px;
+        text-align: center;
+}
+p {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1px;
+    color: #322E2E;
+    padding: 10px 5px;
+    font-size: 80%;
+    text-indent: 15px;
+}
 
 /* Header*/
 header {
@@ -80,6 +96,10 @@ main {
     margin-top: 49px;
     display: flex;
     flex-direction: column;
+}
+.hometitle {
+    font-size: 150%;
+    padding: 25px;
 }
 #hero {
     height: 650px;
@@ -169,6 +189,7 @@ main {
     background-color: #b11d03;
     color: #fafafa;
 }
+
 
 /*Footer*/
 #social-networks {
