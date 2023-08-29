@@ -90,3 +90,89 @@ The colour scheme used is simple and it uses  #322E2E as main colour fot text, #
 - [W3C HTML Markup Validator](https://validator.w3.org/) to validate HTML code.
 - [W3C Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/) to validate CSS code.
 - Code Institute's Gitpod Template to generate the workspace for the project.
+
+
+## Testing
+
+### Validator testing
+- HTML
+    - No errors were found when passing through the W3C Validator.
+![Html validator](readme-folder/html-validator.png)
+
+- CSS
+  - No errors were found when passing through the W3C CSS Validator.
+  ![CSS validator](readme-folder/css-validator.png)
+
+### Lighthouse reports
+- Home
+  - Desktop
+  ![Home desktop](readme-folder/home-desk.png)
+  - Mobile
+  ![Home mobile](readme-folder/home-mob.png)
+
+- Our Services
+  - Desktop
+  ![Services desktop](readme-folder/serv-desk.png)
+  - Mobile
+  ![Services mobile](readme-folder/serv-mob.png)
+  
+- Contact Us
+  - Desktop
+  ![Contact desktop](readme-folder/contact-desk.png)
+  - Mobile
+  ![Contact mobile](readme-folder/contact-mob.png)
+
+### Feature testing
+All Features were tested manually, find the results below. The website was tested in three browsers: Chrome, Firefox and Opera on Desktops, tablets and multiple mobile devices
+
+
+![Future testing](readme-folder/Test.png)
+
+# Deployment
+
+This project was deployed to GitHub pages. The steps to deploy are as follows:
+
+1. Log into GitHub.
+2. Select `standingstraight` from the list of repositories.
+3. Select `Settings` From the Repositories sub-headings.
+4. In the left side menu select `Pages` from `Code and automation` section.
+5. Under the `Source` heading in the dropdown menu select `main`.
+6. A second drop-down menu should remain with the default value `/(root)`.
+7. Press `Save`.
+8. A message that the website is ready to be deployed will appear, refresh the page and the link to the deployed site will be available in a green sub-section on the top of the page.
+9. Click on the link to go to the live deployed page.
+
+The live link can be found [here](https://bogdanmaria.github.io/standingstraight/index.html).
+
+## How to run this project Locally
+
+- **Clone the repository**
+
+1. Navigate to the GitHub Repository `BogdanMaria/standingstraight`.
+2. Click the `Code` drop-down menu.
+3. Click the `HTTPS` sub-heading under the `Clone` heading.
+4. Copy the link.
+5. Open an IDE of your choice (VSCode, Atom, Komodo, etc).
+6. Open a terminal in the directory of your choice, type `git clone` and paste the link.
+7. A clone of the repository will now be created on your machine.
+
+# Credits
+
+## Content
+
+The concept and the text used on the website are produced by me. The text about The DIERS formetric 4D analysis system on Our Serivces page can be found [here](https://www.medicalexpo.com/prod/diers-international/product-68222-592459.html)
+
+## Media
+
+- Hero image from [Facts](https://facts.net/spine-facts/)
+- DIERS formetric 4d system [Medicalexpo](https://www.medicalexpo.com/prod/diers-international/product-68222-592459.html)
+- Physio image from [Freepik](https://www.freepik.com/)
+- Office image from [Freepik](https://www.freepik.com/)
+- Contact image from [Freepik](https://www.freepik.com/)
+
+# Acknowledgements
+
+I would like to thank my mentor, Ronan McClelland, for his guidance,  moral support, inspiration and invaluable advice.
+
+Thanks to Slack Community for answering all my questions before I asked  them.
+
